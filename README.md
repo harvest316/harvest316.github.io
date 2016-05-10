@@ -1,2 +1,2 @@
 # harvest316.github.io
-Github Pages
+This is the parent placeholder for various github pages.  Nothing to see here.
